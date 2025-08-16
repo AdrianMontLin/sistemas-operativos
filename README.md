@@ -1,2 +1,3 @@
-# sistemas-operativos-2025
+# Sistemas Operativos -2025-
+
 Prácticas y proyectos de sistemas operativos 

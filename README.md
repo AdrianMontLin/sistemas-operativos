@@ -2,9 +2,7 @@
 Talleres y proyectos de sistemas operativos
 
 ## Descripción Taller 1
-En la carpeta encontrarás una serie de ejercicios prácticos en lenguaje C
-## 🧩 Taller 1
-[🔗 Ver carpeta del taller](https://github.com/AdrianMontLin/sistemas-operativos/tree/main/taller1%20Retos)
+En la carpeta encontrarás una serie de ejercicios prácticos en lenguaje C [🔗 Ver carpeta del taller](https://github.com/AdrianMontLin/sistemas-operativos/tree/main/taller1%20Retos)
 
 
 ## Laboratorios

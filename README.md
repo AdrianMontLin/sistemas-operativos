@@ -8,9 +8,9 @@ Este repositorio contiene mis **talleres**, **laboratorios** y **proyecto final*
 
 | Sección | Descripción | Enlace |
 |:--------|:-------------|:--------|
-| 🧩 **Talleres** | Ejercicios prácticos en lenguaje C relacionados con los temas vistos en clase. | [Talleres](https://github.com/AdrianMontLin/sistemas-operativos/tree/main/Talleres) |
-| 🔬 **Laboratorios** | Actividades experimentales para reforzar los conceptos de sistemas operativos. | [Laboratorios](https://github.com/AdrianMontLin/sistemas-operativos/tree/main/Laboratorios) |
-| 🚀 **Proyecto Final** | Desarrollo del proyecto principal del curso, dividido en fases. | [Proyecto](https://github.com/AdrianMontLin/sistemas-operativos/tree/main/Proyecto) |
+| 🧩 **Talleres** | Ejercicios prácticos en lenguaje C relacionados con los temas vistos en clase. | [`Talleres`](https://github.com/AdrianMontLin/sistemas-operativos/tree/main/Talleres) |
+| 🔬 **Laboratorios** | Actividades experimentales para reforzar los conceptos de sistemas operativos. | [`Laboratorios`](https://github.com/AdrianMontLin/sistemas-operativos/tree/main/Laboratorios) |
+| 🚀 **Proyecto Final** | Desarrollo del proyecto principal del curso, dividido en fases. | [`Proyecto`](https://github.com/AdrianMontLin/sistemas-operativos/tree/main/Proyecto) |
 
 ---
 

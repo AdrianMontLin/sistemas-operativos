@@ -28,7 +28,7 @@ Comprender cómo el sistema operativo gestiona la **creación, ejecución y comu
 
 Para compilar y ejecutar cada programa:
 
-```C```
+```C
 gcc -o lab01 lab01-07oct.c
 ./lab01
 

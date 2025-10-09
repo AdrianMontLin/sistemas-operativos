@@ -11,7 +11,7 @@ Se implementan ejercicios prácticos que muestran cómo los procesos se crean, e
 
 | Archivo | Tema | ¿Qué hace? |
 |----------|------|-------------|
-| `lab01-07oct.c` | 🧩 *Creación de procesos con fork()* | Demuestra cómo un proceso padre crea un proceso hijo y ambos ejecutan código de forma independiente. |
+| [lab01-07oct.c](https://github.com/AdrianMontLin/sistemas-operativos/blob/main/Laboratorios/lab-01/lab01-07oct.c) | 🧩 *Creación de procesos con fork()* | Demuestra cómo un proceso padre crea un proceso hijo y ambos ejecutan código de forma independiente. |
 | `lab02-07oct.c` | ⚙️ *Ejecución concurrente de procesos* | Ilustra cómo padre e hijo pueden ejecutarse en paralelo y compartir el mismo flujo de ejecución. |
 | `lab03-07oct.c` | 🔄 *Comunicación entre procesos (pipe)* | Implementa la comunicación entre procesos mediante un **pipe**, donde el padre envía un mensaje y el hijo lo recibe. |
 

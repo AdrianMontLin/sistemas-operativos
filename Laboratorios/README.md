@@ -1,6 +1,6 @@
 # 🔬 Laboratorios - Sistemas Operativos 2025
 
-Este directorio contiene los laboratorios desarrollados en el curso de **Sistemas Operativos**, donde se aplican conceptos fundamentales de **procesos, concurrencia y comunicación entre procesos** usando el lenguaje C y llamadas al sistema de Unix.
+Esta carpetaq contiene los laboratorios desarrollados en el curso de **Sistemas Operativos**, donde se aplican conceptos fundamentales de **procesos, concurrencia y comunicación entre procesos** usando el lenguaje C y llamadas al sistema de Unix.
 
 ---
 

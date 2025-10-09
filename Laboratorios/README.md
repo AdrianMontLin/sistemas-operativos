@@ -26,15 +26,15 @@ Comprender cómo el sistema operativo gestiona la **creación, ejecución y comu
 
 ### 💻 Compilación y ejecución
 
-Para compilar y ejecutar cada programa:
-
+Para compilar cada programa:
 ```c
 gcc -o lab01 lab01-07oct.c
-./lab01
-
 gcc -o lab02 lab02-07oct.c
-./lab02
-
 gcc -o lab03 lab03-07oct.c
+```
+Para ejecutar cada programa:
+```c
+./lab01
+./lab02
 ./lab03
 ```

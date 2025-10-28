@@ -21,7 +21,7 @@ Cada carpeta representa un laboratorio independiente con su código fuente, docu
 | Laboratorio | Descripción | Enlace |
 |:------------:|:-------------|:--------|
 | 🧪 **Laboratorio 01** | Introducción al entorno Linux y uso de llamadas al sistema. Se exploran procesos básicos, comandos y compilación con `gcc`. | [Ver laboratorio](./lab01) |
-| 🧪 **Laboratorio 02** | Profundización en la gestión de procesos. Uso de `fork()`, `exec()`, `wait()` y comunicación entre procesos con **pipes**. | [Ver laboratorio](./lab02) |
+| 🧪 **Laboratorio 02** | Profundización en la gestión de procesos. Uso de `fork()`, `exec()`, `wait()` y comunicación entre procesos con **pipes**. | [Ver laboratorio](https://github.com/AdrianMontLin/sistemas-operativos/tree/main/Laboratorios/lab-02) |
 | 🧪 **Laboratorio 03** | *(en desarrollo)* Implementación de hilos (`pthread`) y sincronización con semáforos. | *(próximamente)* |
 
 > 📈 Este listado se actualizará automáticamente a medida que se agreguen nuevos laboratorios.

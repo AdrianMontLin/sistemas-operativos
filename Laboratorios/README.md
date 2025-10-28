@@ -1,40 +1,37 @@
-# 🔬 Laboratorios - Sistemas Operativos 2025
+# ⚙️ Laboratorios – Sistemas Operativos
 
-Esta carpeta contiene los laboratorios desarrollados en el curso de **Sistemas Operativos**, donde se aplican conceptos fundamentales de **procesos, concurrencia y comunicación entre procesos** usando el lenguaje C y llamadas al sistema de Unix.
+Este directorio contiene los **laboratorios desarrollados** en la asignatura de **Sistemas Operativos**, donde se aplican los conceptos fundamentales del curso mediante ejercicios prácticos en **C y Linux**.  
+Cada laboratorio aborda un tema específico del funcionamiento interno del sistema operativo, desde la gestión de procesos hasta la concurrencia y la comunicación entre ellos.
 
 ---
 
-## 📘 Laboratorio 1 — Creación y Comunicación entre Procesos
+## 🧠 Objetivos generales
 
-El **Laboratorio 1** introduce los principios básicos del manejo de procesos en C.  
-Se implementan ejercicios prácticos que muestran cómo los procesos se crean, ejecutan y se comunican entre sí utilizando `fork()` y `pipe()`.
+- Comprender la interacción entre el **hardware y el software** a nivel del sistema operativo.  
+- Utilizar **llamadas al sistema (syscalls)** y funciones estándar de C para manipular procesos, archivos y memoria.  
+- Implementar **modelos de concurrencia**, sincronización y comunicación entre procesos.  
+- Desarrollar destrezas en **programación en entorno UNIX/Linux**.
 
-| Archivo | Tema | ¿Qué hace? |
-|----------|------|-------------|
-| [`lab01-07oct.c`](https://github.com/AdrianMontLin/sistemas-operativos/blob/main/Laboratorios/lab-01/lab01-07oct.c) | 🧩 *Creación de procesos con fork()* | Demuestra cómo un proceso padre crea un proceso hijo y ambos ejecutan código de forma independiente. |
-| [`lab02-07oct.c`](https://github.com/AdrianMontLin/sistemas-operativos/blob/main/Laboratorios/lab-01/lab02-07oct.c) | ⚙️ *Ejecución concurrente de procesos* | Ilustra cómo padre e hijo pueden ejecutarse en paralelo y compartir el mismo flujo de ejecución. |
-| [`lab03-07oct.c`](https://github.com/AdrianMontLin/sistemas-operativos/blob/main/Laboratorios/lab-01/lab03-07oct.c) | 🔄 *Comunicación entre procesos (pipe)* | Implementa la comunicación entre procesos mediante un **pipe**, donde el padre envía un mensaje y el hijo lo recibe. |
+---
 
-### 🎯 Objetivo general
-Comprender cómo el sistema operativo gestiona la **creación, ejecución y comunicación entre procesos**, así como el uso de llamadas al sistema como `fork()` y `pipe()`.
+## 📂 Estructura de los laboratorios
 
-### 🧠 Conceptos aplicados
-- Creación de procesos con `fork()`
-- Identificación de procesos mediante `getpid()`
-- Comunicación unidireccional con `pipe()`
-- Manejo de errores con `perror()` y `exit()`
+Cada carpeta representa un laboratorio independiente con su código fuente, documentación y ejemplos.
 
-### 💻 Compilación y ejecución
+| Laboratorio | Descripción | Enlace |
+|:------------:|:-------------|:--------|
+| 🧪 **Laboratorio 01** | Introducción al entorno Linux y uso de llamadas al sistema. Se exploran procesos básicos, comandos y compilación con `gcc`. | [Ver laboratorio](./lab01) |
+| 🧪 **Laboratorio 02** | Profundización en la gestión de procesos. Uso de `fork()`, `exec()`, `wait()` y comunicación entre procesos con **pipes**. | [Ver laboratorio](./lab02) |
+| 🧪 **Laboratorio 03** | *(en desarrollo)* Implementación de hilos (`pthread`) y sincronización con semáforos. | *(próximamente)* |
 
-Para compilar cada programa:
-```c
-gcc -o lab01 lab01-07oct.c
-gcc -o lab02 lab02-07oct.c
-gcc -o lab03 lab03-07oct.c
-```
-Para ejecutar cada programa:
-```c
-./lab01
-./lab02
-./lab03
-```
+> 📈 Este listado se actualizará automáticamente a medida que se agreguen nuevos laboratorios.
+
+---
+
+## 🚀 Compilación y ejecución
+
+Para compilar y ejecutar un laboratorio manualmente:
+
+```bash
+gcc nombre_archivo.c -o lab
+./lab

@@ -36,5 +36,5 @@ Cada subcarpeta representa un taller independiente con su propio código fuente,
 Para compilar y ejecutar un taller:
 
 ```bash
-gcc nombre_archivo.c -o taller
-./taller
+make
+./main 5 archivo00.txt 6 archivo01.txt

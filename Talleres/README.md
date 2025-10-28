@@ -23,7 +23,7 @@ Cada subcarpeta representa un taller independiente con su propio código fuente,
 
 | Taller | Descripción | Enlace |
 |:-------:|:-------------|:--------|
-| 🧩 **Taller 01** | Introducción al manejo de procesos y llamadas al sistema en C. | [Ver taller](./taller01) |
+| 🧩 **Taller 01** | Aplicar los conceptos de procesos y comunicación entre procesos. | [Ver taller](./taller01) |
 | 🧩 **Taller 02** | *(pendiente de agregar)* | *(próximamente)* |
 | 🧩 **Taller 03** | *(pendiente de agregar)* | *(próximamente)* |
 

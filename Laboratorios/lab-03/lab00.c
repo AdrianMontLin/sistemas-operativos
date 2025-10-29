@@ -1,12 +1,21 @@
+/*****************************************************************************************************
+*	* FECHA: 28/10/2025 
+*	* AUTOR: SAMUEL ADRIAN MONTAÑA LINARES
+*	* MATERIA: SISTEMAS OPERATIVOS - PONTIFICIA UNIVERSIDAD JAVERIANA
+*	* DOCENTE: JOHN CORREDOR
+*	* DESCRIPCIÓN: Programa básico de creación de hilos que demuestra la creación, ejecución
+*   *              y finalización de dos hilos que imprimen mensajes diferentes.
+******************************************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
 
+// Función ejecutada por cada hilo
 void *print_message_function(void *ptr) {
     char *message;
     message = (char *)ptr;
     printf("%s\n", message);
-    pthread_exit(NULL);
+    pthread_exit(NULL);  // Finaliza el hilo explícitamente
 }
 
 int main() {
@@ -25,12 +34,12 @@ int main() {
         return EXIT_FAILURE;
     }
 
-    printf("Thread 1 retorna: %d\n", iret1);
-    printf("Thread 2 retorna: %d\n", iret2);
-
-    // Esperar que ambos hilos terminen
+    // Esperar que ambos hilos terminen (sincronización)
     pthread_join(thread1, NULL);
     pthread_join(thread2, NULL);
+    
+    printf("Thread 1 retorna: %d\n", iret1);
+    printf("Thread 2 retorna: %d\n", iret2);
 
     printf("Ambos hilos han terminado.\n");
 

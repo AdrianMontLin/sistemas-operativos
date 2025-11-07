@@ -23,7 +23,7 @@ Cada carpeta representa un laboratorio independiente con su código fuente, docu
 | 🧪 **Laboratorio 01** | Introducción al entorno Linux y uso de llamadas al sistema. Se exploran procesos básicos, comandos y compilación con `gcc`. | [`Lab 1`](https://github.com/AdrianMontLin/sistemas-operativos/tree/main/Laboratorios/lab-01) |
 | 🧪 **Laboratorio 02** | Profundización en la gestión de procesos. Uso de `fork()`, `exec()`, `wait()` y comunicación entre procesos con **pipes**. | [`Lab 2`](https://github.com/AdrianMontLin/sistemas-operativos/tree/main/Laboratorios/lab-02) |
 | 🧪 **Laboratorio 03** | Implementación de hilos (`pthread`) y sincronización con semáforos. | [`Lab 3`](https://github.com/AdrianMontLin/sistemas-operativos/tree/main/Laboratorios/lab-03) |
-
+| 🧪 **Laboratorio OpenMP** |  | [`Lab OpenMP`](https://github.com/AdrianMontLin/sistemas-operativos/tree/main/Laboratorios/labOpenMP) |
 > 📈 Este listado se actualizará automáticamente a medida que se agreguen nuevos laboratorios.
 
 ---

@@ -23,9 +23,9 @@ Cada subcarpeta representa un taller independiente con su propio código fuente,
 
 | Taller | Descripción | Enlace |
 |:-------:|:-------------|:--------|
-| 🧩 **Taller 01** | Aplicar los conceptos de procesos y comunicación entre procesos. | [Ver taller](./taller01) |
-| 🧩 **Taller 02** | *(pendiente de agregar)* | *(próximamente)* |
-| 🧩 **Taller 03** | *(pendiente de agregar)* | *(próximamente)* |
+| 🧩 **Taller 01** | Aplicar los conceptos de procesos y comunicación entre procesos. | [`Ver Taller 01`](./taller01) |
+| 🧩 **Taller 02** | *(pendiente de agregar)* | [`Ver Taller 02`](./taller02) |
+| 🧩 **Taller 03** | *(pendiente de agregar)* | [`Ver Taller 03`](./taller03) |
 
 > ⚙️ A medida que se desarrollen nuevos talleres, este listado se irá actualizando con sus respectivas descripciones y enlaces.
 

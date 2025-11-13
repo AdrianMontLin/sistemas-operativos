@@ -12,3 +12,19 @@ Esta actividad implementa la solución al problema clásico **Productor-Consumid
 
 ##  Carpeta de actividad 01 -> [`Actividad 01`](./actividad01)
 
+# Actividad 02
+
+
+
+
+## - Descripción General -
+Esta actividad implementa un sistema de **múltiples hilos productores** y un **hilo spooler** utilizando **Pthreads** con **mutex** y **variables condición** para la sincronización dentro de un mismo proceso en sistemas Linux.
+
+## - Objetivos Principales -
+- **Comprender** la programación multihilo con Pthreads
+- **Implementar** sincronización usando mutex y variables condición
+- **Gestionar** buffers compartidos entre múltiples hilos
+- **Coordinar** la producción y consumo de datos en un mismo proceso
+- **Garantizar** la exclusión mutua en el acceso a recursos compartidos
+
+##  Carpeta de actividad 02 -> [`Actividad 02`](./actividad02)

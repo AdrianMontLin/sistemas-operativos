@@ -31,10 +31,13 @@ Cada subcarpeta representa un taller independiente con su propio código fuente,
 
 ---
 
-## 🚀 Ejecución
-
-Para compilar y ejecutar un taller:
+Para entrar a un taller:
 
 ```bash
-make
-./main 5 archivo00.txt 6 archivo01.txt
+Entrar a taller 1
+$ cd taller01
+Entrar a taller 2
+$ cd taller02
+Entrar a taller 3
+$ cd taller03
+

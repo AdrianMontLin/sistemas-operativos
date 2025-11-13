@@ -24,8 +24,8 @@
 ###  Compilar los programas
 Para comilación se muestran los siguientes comandos
 ```bash
-Para compilacipn
 $ make
+
 En una consola se ejecuta el siguiente comando
 $ ./consumidor
 

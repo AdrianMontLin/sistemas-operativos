@@ -25,7 +25,7 @@ Cada subcarpeta representa un taller independiente con su propio código fuente,
 |:-------:|:-------------|:--------|
 | 🧩 **Taller 01** | Aplicar los conceptos de procesos y comunicación entre procesos. | [`Ver Taller 01`](./taller01) |
 | 🧩 **Taller 02** | *(pendiente de agregar)* | [`Ver Taller 02`](./taller02) |
-| 🧩 **Taller 03** | *(pendiente de agregar)* | [`Ver Taller 03`](./taller03) |
+| 🧩 **Taller 03** | Implementación y comparación dos mecanismos de sincronización (Procesos e Hilos)| [`Ver Taller 03`](./taller03) |
 
 > ⚙️ A medida que se desarrollen nuevos talleres, este listado se irá actualizando con sus respectivas descripciones y enlaces.
 

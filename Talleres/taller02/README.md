@@ -32,36 +32,38 @@ Esta carpeta contiene diferentes implementaciones de multiplicación de matrices
 
 # Compilación y ejecución de mmClasicaFork
 
-# Editar lanzador.pl y cambiar:
-$Nombre_Ejecutable = "mmClasicaFork";
-
-# En consola:
+Editar **`lanzador.pl`**:
 ```bash
-chmod +x lanzador.pl
-chmod +x mmClasicaFork
-./lanzador.pl
+$ nombre_ejecutable = "mmClasicaFork";
+```
+
+```bash
+En consola:
+$ chmod +x lanzador.pl
+$ chmod +x mmClasicaFork
+$ ./lanzador.pl
 ```
 
 # Compilación y ejecución de mmClasicaPosix
-
-# Editar lanzador.pl y cambiar:
-$Nombre_Ejecutable = "mmClasicaPosix";
-
+Editar **`lanzador.pl`**:
 ```bash
-# En consola:
-chmod +x lanzador.pl
-chmod +x mmClasicaPosix
-./lanzador.pl
+$ mombre_ejecutable = "mmClasicaPosix";
+```
+```bash
+En consola:
+$ chmod +x lanzador.pl
+$ chmod +x mmClasicaPosix
+$ ./lanzador.pl
 ```
 
-#Compilación y ejecución de mmClasicaOpenMP
-
-# Editar lanzador.pl y cambiar:
-$Nombre_Ejecutable = "mmClasicaOpenMP";
-
+# Compilación y ejecución de mmClasicaOpenMP
+Editar **`lanzador.pl`**:
 ```bash
-# En consola:
-chmod +x lanzador.pl
+$ nombre_ejecutable = "mmClasicaOpenMP";
 ```
-chmod +x mmClasicaOpenMP
-./lanzador.pl
+```bash
+En consola:
+$ chmod +x lanzador.pl
+$ chmod +x mmClasicaOpenMP
+$ ./lanzador.pl
+```

@@ -1,5 +1,5 @@
 /*#######################################################################################
-#* Fecha:
+#* Fecha: 31 Octubre 2025
 #* Autor: J. Corredor, PhD
 #* Programa:
 #*      Multiplicación de Matrices algoritmo clásico

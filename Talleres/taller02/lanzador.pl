@@ -1,8 +1,7 @@
 #!/usr/bin/perl
 #**************************************************************
 #         		Pontificia Universidad Javeriana
-#     Autor: 
-#     Fecha: 
+#     Fecha: 31 Octubre 2025
 #     Materia: Sistemas Operativos
 #     Tema: Taller de Evaluación de Rendimiento
 #     Fichero: script automatización ejecución por lotes 

@@ -1,0 +1,16 @@
+program,n,threads,time
+mmClasicaFork,3000,1,496323821 
+mmClasicaFork,3000,2,239059794 
+mmClasicaFork,3000,3,159147600 
+mmClasicaFork,3000,4,162344969 
+mmClasicaFork,3000,8,162242907 
+mmClasicaPosix,3000,1,542524343 
+mmClasicaPosix,3000,2,266409071 
+mmClasicaPosix,3000,3,202002536 
+mmClasicaPosix,3000,4,165153011 
+mmClasicaPosix,3000,8,140747276 
+mmClasicaOpenMP,3000,1,374123730 
+mmClasicaOpenMP,3000,2,195310835 
+mmClasicaOpenMP,3000,3,133997158 
+mmClasicaOpenMP,3000,4,132354068 
+mmClasicaOpenMP,3000,8,123156191 

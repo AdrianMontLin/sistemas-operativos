@@ -28,3 +28,37 @@ Esta carpeta contiene diferentes implementaciones de multiplicación de matrices
 - **Algoritmo**: Multiplicación con matriz transpuesta (Filas × Filas)
 - **Paralelización**: OpenMP
 - **Características**: Optimización mediante acceso a memoria más eficiente
+
+
+# Compilación y ejecución de mmClasicaFork
+
+# Editar lanzador.pl y cambiar:
+$Nombre_Ejecutable = "mmClasicaFork";
+
+# En consola:
+```bash
+chmod +x lanzador.pl
+chmod +x mmClasicaFork
+./lanzador.pl
+
+# Compilación y ejecución de mmClasicaPosix
+
+# Editar lanzador.pl y cambiar:
+$Nombre_Ejecutable = "mmClasicaPosix";
+
+```bash
+# En consola:
+chmod +x lanzador.pl
+chmod +x mmClasicaPosix
+./lanzador.pl
+
+#Compilación y ejecución de mmClasicaOpenMP
+
+# Editar lanzador.pl y cambiar:
+$Nombre_Ejecutable = "mmClasicaOpenMP";
+
+```bash
+# En consola:
+chmod +x lanzador.pl
+chmod +x mmClasicaOpenMP
+./lanzador.pl

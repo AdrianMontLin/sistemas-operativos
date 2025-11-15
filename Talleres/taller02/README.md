@@ -40,6 +40,7 @@ $Nombre_Ejecutable = "mmClasicaFork";
 chmod +x lanzador.pl
 chmod +x mmClasicaFork
 ./lanzador.pl
+```
 
 # Compilación y ejecución de mmClasicaPosix
 
@@ -51,6 +52,7 @@ $Nombre_Ejecutable = "mmClasicaPosix";
 chmod +x lanzador.pl
 chmod +x mmClasicaPosix
 ./lanzador.pl
+```
 
 #Compilación y ejecución de mmClasicaOpenMP
 
@@ -60,5 +62,6 @@ $Nombre_Ejecutable = "mmClasicaOpenMP";
 ```bash
 # En consola:
 chmod +x lanzador.pl
+```
 chmod +x mmClasicaOpenMP
 ./lanzador.pl
